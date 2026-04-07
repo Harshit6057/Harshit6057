@@ -48,40 +48,61 @@ class Harshit:
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 🤖 AI / ML / Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<!-- AI / ML -->
+### 🧠 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
 
-### 🦜 Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C_LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/%F0%9F%95%B8%EF%B8%8F_LangGraph-1C3C3C?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/%E2%9A%A1_Groq_(LLaMA--3)-F54A00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/%F0%9F%94%8D_RAG_Pipelines-7C3AED?style=for-the-badge)
+<!-- Generative AI -->
+### 🤖 Generative AI & LLMs
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-LLaMA3-F54A00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=flat-square"/>
+</p>
 
-### 📊 Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+<!-- Data -->
+### 📊 Data Science & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+</p>
 
-### ⚙️ Dev Tools & Platforms
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<!-- Development -->
+### ⚙️ Development & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,flask,nextjs,mongodb,git" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart"/>
+</p>
+
+<!-- Tools -->
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab"/>
+</p>
 
 </div>
 
