@@ -48,61 +48,87 @@ class Harshit:
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Universe
 
 <div align="center">
 
-<!-- AI / ML -->
 ### 🧠 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-<!-- Generative AI -->
+---
+
 ### 🤖 Generative AI & LLMs
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-LLaMA3-F54A00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/LangChain-0A192F?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-0A192F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-LLaMA3-F54A00?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-9333EA?style=flat-square"/>
 
-<!-- Data -->
+---
+
+### 🌐 Web & App Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,dart" />
+
+---
+
+### 🗄️ Databases & Backend
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase" />
+
+---
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel" />
+<br/>
+<img src="https://img.shields.io/badge/Git_Bash-000000?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+---
+
 ### 📊 Data Science & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,r" />
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square"/>
 
-<!-- Development -->
-### ⚙️ Development & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,flask,nextjs,mongodb,git" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart"/>
-</p>
+---
 
-<!-- Tools -->
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab"/>
-</p>
+### 🧪 Testing & Automation
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square"/>
+
+---
+
+### 🎨 UI / Design
+<img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,html,css,js" />
+
+---
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,r,js" />
+
+---
+
+### 🧰 Developer Tools
+<img src="https://skillicons.dev/icons?i=vscode,ubuntu,bash,neovim,vim" />
+
+---
+
+### 🤖 AI Tools & Productivity
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit"/>
+<img src="https://img.shields.io/badge/Framer_AI-0055FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Manus_AI-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stitch-FF4088?style=flat-square"/>
+<img src="https://img.shields.io/badge/Lovable-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kiro-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Antigravity-222222?style=flat-square"/>
 
 </div>
 
