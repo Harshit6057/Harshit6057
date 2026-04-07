@@ -59,7 +59,7 @@ class Harshit:
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### �� Generative AI & LLMs
+### 🦜 Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C_LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/%F0%9F%95%B8%EF%B8%8F_LangGraph-1C3C3C?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
