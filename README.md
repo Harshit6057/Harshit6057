@@ -244,8 +244,8 @@ class Harshit:
 <br/>
 
 **Positions of Responsibility:**
-- 🎪 **Organising Committee** — Treasure Hunt, PECFEST 2024 *(Student Counselling Cell, PEC)*
-- 📣 **Subhead, Publicity Committee** — PECFEST 2025 *(Punjab Engineering College)*
+- 🎪 **Organising Committee** — Treasure Hunt, PECFEST 2024, 2025 *(Student Counselling Cell, PEC)*
+- 📣 **Subhead, Publicity Committee** — PECFEST 2024 *(Punjab Engineering College)*
 
 ---
 
