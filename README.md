@@ -30,10 +30,10 @@ class Harshit:
     name        = "Harshit Bhoriya"
     role        = ["AI Engineer", "Data Science Student"]
     company     = "Ping IFF LLP, Chandigarh"
-    education   = "B.Tech CSE (Data Science) @ PEC — CGPA: 7.81"
+    education   = "B.Tech CSE (Data Science) @ PEC — CGPA: 7.89"
     location    = "Chandigarh, India"
     focus       = ["Generative AI", "Computer Vision", "LLMs", "MLOps"]
-    languages   = ["Python", "C++", "SQL", "R"]
+    languages   = ["Python", "C++", "SQL", "R", "Flutter"]
 
     def mission(self):
         return "Build intelligent systems that solve real-world problems 🚀"
