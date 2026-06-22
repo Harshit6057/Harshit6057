@@ -33,7 +33,7 @@ class Harshit:
     education   = "B.Tech CSE (Data Science) @ PEC — CGPA: 7.89"
     location    = "Chandigarh, India"
     focus       = ["Generative AI", "Computer Vision", "LLMs", "MLOps"]
-    languages   = ["Python", "C++", "SQL", "R", "Flutter"]
+    languages   = ["Python", "C++", "SQL", "R", "Flutter","Dart"]
 
     def mission(self):
         return "Build intelligent systems that solve real-world problems 🚀"
