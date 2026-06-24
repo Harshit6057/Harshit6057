@@ -28,11 +28,11 @@
 ```python
 class Harshit:
     name        = "Harshit Bhoriya"
-    role        = ["AI Engineer", "Data Science Student"]
+    role        = ["Software Engineer", "AI Engineer", "Data Science Student"]
     company     = "Ping IFF LLP, Chandigarh"
-    education   = "B.Tech CSE (Data Science) @ PEC — CGPA: 7.89"
+    education   = "B.Tech CSE (Data Science) @ PEC'27 — CGPA: 7.89"
     location    = "Chandigarh, India"
-    focus       = ["Generative AI", "Computer Vision", "LLMs", "MLOps"]
+    focus       = ["Generative AI", "Computer Vision", "LLMs", "MLOps", "App and Web Development"]
     languages   = ["Python", "C++", "SQL", "R", "Flutter","Dart"]
 
     def mission(self):
